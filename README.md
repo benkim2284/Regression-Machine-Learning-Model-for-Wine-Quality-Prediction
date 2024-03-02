@@ -1,0 +1,2 @@
+# Regression-Machine-Learning-Model-for-Wine-Quality-Prediction
+Linear Regression Machine Learning Model from scratch (only numpy and matplotlib). This model has 12 input variables and one target. By utilizing gradient descent during the back propagation process, I adjust the weights and biases to effectively train the model. As my first time working with matrices in python, it was a super cool experience!
